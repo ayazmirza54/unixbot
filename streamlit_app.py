@@ -107,7 +107,7 @@ def main():
     )
 
     # Title
-    st.title("🤖 Unixbot : Gemini powered unix ssistant")
+    st.title("🤖 Unixbot : Gemini powered Unix Assistant")
     st.markdown("Develop shell script with AI assistance using full file data!")
 
     # Sidebar for configuration
