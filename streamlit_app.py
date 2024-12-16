@@ -102,7 +102,7 @@ def main():
     # Set page configuration
     st.set_page_config(
         page_title="Unixbot : Gemini powered unix Assistant",
-        page_icon=":robot_face:",
+        page_icon=":material/terminal:",
         layout="wide",
     )
 
