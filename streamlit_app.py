@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 import streamlit as st
-import google.generativeai as genai
-from google.generativeai import types # Import types for explicit type hints
+from google import genai
+from google.genai import types
 
 class GeminiSQLChatInterface:
     def __init__(self, api_key, model_name="gemini-2.5-flash"): # Updated model name as per user's example
